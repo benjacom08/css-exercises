@@ -1,0 +1,14 @@
+.one {
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.two {
+    background-color: yellowgreen;
+}
+
+.one,
+.two {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
